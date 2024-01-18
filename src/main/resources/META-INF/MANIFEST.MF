@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: in.teamelementals.zap.zap_attendance_system.ZapAttendanceSys
+ temApplication
+
